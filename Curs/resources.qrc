@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>html/about/about.html</file>
+        <file>html/history/history.html</file>
+        <file>html/price/abonement.html</file>
+        <file>html/price/baikal.html</file>
+        <file>html/price/batonchic.html</file>
+        <file>html/price/creatin.html</file>
+        <file>html/price/price.html</file>
+        <file>html/price/protein.html</file>
+        <file>html/schedule/schedule.html</file>
+        <file>images/abonement.jpg</file>
+        <file>images/back.jpg</file>
+        <file>images/back.png</file>
+        <file>images/back2.jpg</file>
+        <file>images/back2.png</file>
+        <file>images/baikal.png</file>
+        <file>images/batonchic.jpg</file>
+        <file>images/cat.jpg</file>
+        <file>images/cat2.jpg</file>
+        <file>images/creatin.jpg</file>
+        <file>images/creatin.png</file>
+        <file>images/history.jpg</file>
+        <file>images/history1.jpg</file>
+        <file>images/ico.jpg</file>
+        <file>images/ico.png</file>
+        <file>images/kino2.png</file>
+        <file>images/load.jpg</file>
+        <file>images/protein.jpg</file>
+        <file>style/style.qss</file>
+        <file>style/rc/back.png</file>
+        <file>style/rc/back2.png</file>
+        <file>html/helpInformation/add.html</file>
+        <file>html/helpInformation/delete.html</file>
+        <file>html/helpInformation/edit.html</file>
+        <file>html/helpInformation/fitnes.html</file>
+        <file>html/helpInformation/index.html</file>
+        <file>html/helpInformation/schedule.html</file>
+        <file>html/helpInformation/price.html</file>
+        <file>html/helpInformation/exit.html</file>
+    </qresource>
+</RCC>

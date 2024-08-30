@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Price</class>
+ <widget class="QWidget" name="Price">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1646</width>
+    <height>966</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="exit_price">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>920</y>
+     <width>151</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Выход</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>1611</width>
+     <height>891</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QTextBrowser" name="protein"/>
+    </item>
+    <item>
+     <widget class="QTextBrowser" name="creatin"/>
+    </item>
+    <item>
+     <widget class="QTextBrowser" name="batonchic"/>
+    </item>
+    <item>
+     <widget class="QTextBrowser" name="baikal"/>
+    </item>
+    <item>
+     <widget class="QTextBrowser" name="abonement">
+      <property name="minimumSize">
+       <size>
+        <width>500</width>
+        <height>0</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
